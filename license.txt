@@ -6,8 +6,4 @@ Apache 2.0
 
 When am I going to stop adding text to this file?
 
-Adding:
 
-Some random text here
-
-More random text
